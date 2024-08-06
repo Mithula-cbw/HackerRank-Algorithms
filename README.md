@@ -5,3 +5,4 @@
 <a href="https://www.hackerrank.com/profile/mithula_cbw"><img src="https://img.shields.io/badge/HackerRank-%2315BE56?style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>
 
 01. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/)
+02. [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/)
